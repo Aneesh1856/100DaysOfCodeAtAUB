@@ -1,4 +1,4 @@
-🚀Day 7/100: Hangman Game 🎮
+# 🚀Day 7/100: Hangman Game 🎮
 
 Today, I tackled a fundamental project that combines logic, user interaction, and fun: The Hangman Game! 
 Here’s a behind-the-scenes look at how it was built and the skills I applied along the way.
