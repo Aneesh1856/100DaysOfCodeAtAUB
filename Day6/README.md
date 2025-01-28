@@ -1,3 +1,5 @@
+🔴Note: I have done this code on Reeborg's World.
+
 🚀Day 6/100: Solving Mazes with Python! 🧩
 
 Today, I worked on an exciting project in Reeborg’s World—building a program to navigate a robot through a maze. 
