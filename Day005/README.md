@@ -1,4 +1,4 @@
-🚀Day 5/100: Password Generator
+# 🚀Day 5/100: Password Generator
 
 Today's project focused on creating a Python program that generates strong, random passwords based on user preferences. 
 In a world where online security is vital, this tool can help ensure passwords are strong and unique!
