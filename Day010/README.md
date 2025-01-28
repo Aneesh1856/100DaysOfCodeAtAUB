@@ -1,4 +1,4 @@
-🚀Day 10/100: Simple Calculator🧮
+# 🚀Day 10/100: Simple Calculator🧮
 
 💻 Today’s milestone in my coding journey was creating a fully functional calculator program in Python! 
 This project not only solidified my understanding of Python fundamentals but also helped me explore interactive programming concepts. 
