@@ -1,4 +1,4 @@
-🚀 Day 2/100: Tip Calculator
+# 🚀 Day 2/100: Tip Calculator
 
 Today's project: A Tip Calculator to make splitting bills simple and hassle-free! 💰💡
 
