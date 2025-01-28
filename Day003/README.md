@@ -1,4 +1,4 @@
-🚀Day 3/100: Treasure Island
+# 🚀Day 3/100: Treasure Island
 
 Today, I explored Python by creating a fun and interactive text-based adventure game called Treasure Island 🏝️. 
 The game engages players with choices, challenges, and consequences as they navigate through a series of decisions to find hidden treasure.
