@@ -1,4 +1,4 @@
-🚀Day 8/100: Caesar Cipher Program
+# 🚀Day 8/100: Caesar Cipher Program
 
 Today, I worked on building a Caesar Cipher Program in Python! 🐍
 This program can encode and decode messages by shifting the letters of the alphabet by a user-specified amount. 
