@@ -2,7 +2,7 @@
 
 💻 Today’s milestone in my coding journey was creating a fully functional calculator program in Python! 
 This project not only solidified my understanding of Python fundamentals but also helped me explore interactive programming concepts. 
-Here's a closer look at what I achieved:
+Here's a closer look at what I achieved
 
 🛠️ Features of the Calculator Program
 
