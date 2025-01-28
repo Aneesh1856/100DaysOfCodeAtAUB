@@ -3,7 +3,6 @@
 Today’s project is the classic Rock, Paper, Scissors game! 🎮✂️📄🪨
 
 What It Does:
-
 This Python program lets you play a quick round of Rock, Paper, Scissors against the computer. The game randomly selects its move, and you can see if you outsmart it or end up losing!
 
 Features:
