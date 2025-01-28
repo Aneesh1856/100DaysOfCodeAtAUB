@@ -1,4 +1,4 @@
-🚀Day 4/100: Rock, Paper, Scissors game!
+# 🚀Day 4/100: Rock, Paper, Scissors game!
 
 Today’s project is the classic Rock, Paper, Scissors game! 🎮✂️📄🪨
 
