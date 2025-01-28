@@ -1,4 +1,4 @@
-🚀Day 11/100: Blackjack Game.
+# 🚀Day 11/100: Blackjack Game.
 
 Today, I dove into the exciting world of Python by building a simple Blackjack game! 🃏💻
 
